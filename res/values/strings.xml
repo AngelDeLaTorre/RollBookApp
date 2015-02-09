@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RollBookApp</string>
+     <string name="action_settings">settings</string>
+    <string name="add_button">+</string>
+    <string name="Tittle_name_Stu">My Students</string>
+    <string name="Tittle_name_Sta">My Stats</string>
+     <string name="back_button">Back</string>
+    <string name="search_bar_students">search students</string>
+    <string name="search_bar_stats">search stats</string>
+    <string name="student_tab">Students</string>
+    <string name="stats_tab">Stats</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    
+    <string name="add_student">Add Student</string>
+      <string name="edit_student">Edit Student</string>
+    
+    <string name="save_button">Save</string>
+     <string name="ok_button">OK</string>
+     <string name="grade_button">A+</string>
+     
+    <string name="add_grade">Add Grade</string>
+    <string name="grade_name">Grade Name</string>
+    <string name="grade">Grade</string>
+    <string name="pepe">Angel De La Torre</string>
+    <string name="show_student">Show Student</string>
+    <string name="show_stats">Show Stats</string>
+    <string name="num_students">Num of Students:</string>
+    <string name="min_grade">Min:</string>
+    <string name="max_grade">Max:</string>
+    <string name="avg_grade">Average:</string>
+    <string name="st_dv">Stdv:</string>
+    <string name="exam_num">Exam#</string>
+    <string name="edit_button">Edit</string>
+      <string name="delete_button">Delete</string>
+    <string name="edit_grade">Edit Grade</string>
+    
+    
+   
+
+</resources>
